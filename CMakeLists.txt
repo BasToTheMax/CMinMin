@@ -18,4 +18,5 @@ add_executable(teting main.cpp
         Week4/W4-1.cpp
         Week4/W4-2.cpp
         Week4/W4-3.cpp
+        Week4/W4-4.cpp
 )
